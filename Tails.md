@@ -11,4 +11,5 @@ Tails funciona directamente en un pendrive, disco DVD o tarjeta SD. A modo de ej
 
 Seguramente te habrá llamado la atención el requisito de dos pendrives USB. Es por motivos de seguridad. Primero se realiza una instalación parcial en un pendrive, y desde él se lleva a cabo la instalación final en el segundo pendrive, evitando posibles espías desde Windows.
 Y como hago la descarga?
+
 Tails recomienda descargar el fichero desde Firefox con una extensión especial, o desde BitTorrent, porque ambos métodos verifican la integridad del archivo, puedes realizar una descarga directa desde la web de Tails, pero este sistema no verifica el fichero, así que un malware podría modificarlo.
