@@ -1,5 +1,7 @@
 
 Tails
+
+
 El Tais es un sistema operativo. Si como el Windows o el ios. Pero este es amenesico y lo puedes cargar en una Usb, puede ser anonimx donde quiera que estes.
 Tails, una distribución Linux y su función consiste en borrar huellas ya que Todos los datos y ficheros que maneja están encriptados, y todas las conexiones a Internet se encriptan y se transmiten a través de la red de anonimización Tor, para que nadie pueda espiarlas.
 Como hace Tails ser anónimo?
