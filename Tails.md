@@ -15,3 +15,15 @@ Seguramente te habrá llamado la atención el requisito de dos pendrives USB. Es
 Y como hago la descarga?
 
 Tails recomienda descargar el fichero desde Firefox con una extensión especial, o desde BitTorrent, porque ambos métodos verifican la integridad del archivo, puedes realizar una descarga directa desde la web de Tails, pero este sistema no verifica el fichero, así que un malware podría modificarlo.
+
+Tails incluye una gran cantidad de aplicaciones gratuitas creadas para garantizar la privacidad y el anonimato. Estas son las más importantes:
+
+    Tor Browser: El navegador de Tor se encarga de ocultar la ubicación y anonimizar todos los accesos a las páginas web y los servicios de Internet
+    HTTPS Everywhere: Encripta la gran mayoría de las páginas webs que visitas
+    NoScript y Torbutton protegen contra ataques de Javascript
+    Adblock Plus: Bloquea la publicidad intrusiva
+    Icedove (Thunderbirds): Gestor de correo electrónico con opciones adicionales de encriptación y privacidad
+    Gooby: Editor de textos con opción de trabajo en grupo
+    Aircrack-ng: Auditoría de seguridad de la conexión WiFi
+    I2P: Red de anonimización alternativa a Tor
+    Electrum: Un cliente para usar Bitcoin
