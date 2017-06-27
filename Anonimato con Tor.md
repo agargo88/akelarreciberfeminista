@@ -12,4 +12,6 @@ Como hemos comentado Tor es usado principalmente para ocultar la identidad de lo
 Pero yo para que voy a utilizar tor si no soy una activista? Tor no es solo para los activista también para protegerte de vendedores que quieren sin autorización tus datos, para ladrones de identidad, para protegerte de algunos proveedores de servicio de internet que vende tus registros de navegación a cualquiera que quiera pagarlos. Es tan sencillo como darle tu DNI, tus números de cuenta, los datos de tu familia, la dirección de tu casa ósea toda tu vida personal a una persona desconocida o a una empresa para que haga campaña de Marketing.
 Y lo mejor de todo es que lo puedes descargar desde la página web principal de Tor y la página de los proxys los puedes descargar en proxylist.hidemyasss. es muy fácil descargar el tor y ejecutarlo con el idioma que más te sienta segura. En la página de los proxys es recomendable utilizar los indios o los chinos ya que tiene buena calidad y potente en la navegación importante que tenga toda la línea verde completa, no se vale las líneas amarillas.  
 Entoncessss A ponernos las pilas con la Privacidad 
+
+
 Ayyy una nota importante no sirve de nada utilizar Tor si entras a tu Facebook o a tu correo de Gmail, en el apartado de Correos seguros puedes amplicar Info.
